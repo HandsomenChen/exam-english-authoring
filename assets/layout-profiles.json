@@ -1,0 +1,115 @@
+{
+  "units": "pt",
+  "font_resolution": "Resolve installed/licensed fonts at runtime; no bundled third-party fonts. Re-render after substitution.",
+  "brand": {
+    "header": "小红书：gpt学英语",
+    "footer": "小红书：gpt学英语",
+    "configurable": true
+  },
+  "english1_approved": {
+    "page": [
+      595.28,
+      841.89
+    ],
+    "body_left": 56.64,
+    "body_width": 481.9,
+    "body_top": 797,
+    "body_bottom": 48,
+    "font": "Times New Roman",
+    "font_size": 12,
+    "leading": 23.4,
+    "first_line_indent": 24,
+    "directions_leading": 16,
+    "section_font_size": 14,
+    "part_font_size": 12,
+    "header_font_size": 9,
+    "footer_font_size": 8.5,
+    "page_number_font_size": 9,
+    "cloze_options_new_page": true,
+    "reading_questions_new_page": true,
+    "reading_article_new_page": true
+  },
+  "english2_2024": {
+    "page": [
+      521.55,
+      737
+    ],
+    "body_left": 54,
+    "body_width": 413.55,
+    "body_top": 662,
+    "body_bottom": 73,
+    "font": "Times New Roman",
+    "font_size": 12,
+    "leading": 23.4,
+    "first_line_indent": 24,
+    "alignment": "justify",
+    "directions_leading": 15.6,
+    "section_font_size": 14,
+    "part_font_size": 12,
+    "translation_leading": 21,
+    "header_font_size": 8,
+    "footer_font_size": 8,
+    "page_number_font_size": 9,
+    "matching_column_widths": [
+      133,
+      280.55
+    ],
+    "matching_leading": 15.6,
+    "cloze_options_new_page": false,
+    "reading_questions_new_page": true,
+    "directions_background": null
+  },
+  "per_article_parallel_compact": {
+    "page": [
+      595.28,
+      841.89
+    ],
+    "margins": {
+      "left": 43,
+      "right": 43,
+      "top": 49,
+      "bottom": 43
+    },
+    "english": {
+      "font": "Times New Roman",
+      "size": 10.7,
+      "leading": 14.3
+    },
+    "chinese": {
+      "font": "CJK-capable font resolved at runtime",
+      "size": 10.3,
+      "leading": 14.6
+    },
+    "explanation": {
+      "size": 10.3,
+      "leading": 14.5,
+      "space_after": 3
+    },
+    "source": {
+      "size": 8.5,
+      "leading": 11.5
+    },
+    "column_widths": [
+      254.64,
+      254.64
+    ],
+    "cell_padding": {
+      "left": 6,
+      "right": 6,
+      "top": 4,
+      "bottom": 5
+    },
+    "repeat_table_headers": true,
+    "split_long_paragraph_rows": true,
+    "force_new_page_per_article": false,
+    "force_new_page_per_paper": false,
+    "separate_translation_appendix": false,
+    "target_pages": null,
+    "pdf_bookmarks": true,
+    "per_article_order": [
+      "parallel_text",
+      "answers_and_explanations",
+      "source_and_adaptation"
+    ]
+  }
+}
