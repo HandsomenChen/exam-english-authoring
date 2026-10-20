@@ -1,0 +1,4 @@
+interface:
+  display_name: "考研英语真实外刊命题"
+  short_description: "从真实外刊选材、忠实删改到完形、阅读、新题型、翻译命题与整卷交付"
+  default_prompt: "使用 $exam-english-authoring，从真实来源制作本次指定的考研英语练习，附英中对照、解析和出处并完成核验。"
