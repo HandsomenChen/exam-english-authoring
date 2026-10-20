@@ -1,0 +1,29 @@
+{
+  "target_exam_year": null,
+  "production_date": null,
+  "paper_counts": {
+    "English_I": null,
+    "English_II": null
+  },
+  "modes": [],
+  "include_writing": false,
+  "source_recency_preference_months": 24,
+  "used_sources": [],
+  "known_source_materials": [],
+  "brand": "小红书：gpt学英语",
+  "layout_profiles": {
+    "English_I": "english1_approved",
+    "English_II": "english2_2024",
+    "answers": "per_article_parallel_compact"
+  },
+  "deliverables": [
+    "student_pdfs",
+    "per_article_bilingual_answers_pdf",
+    "editable_data",
+    "source_and_adaptation_records",
+    "actual_qa_record",
+    "zip"
+  ],
+  "output_directory": null,
+  "notes": []
+}
